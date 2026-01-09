@@ -3,7 +3,7 @@
 
 This repository contains the source code for my Data Analysis/Science portfolio, hosted on GitHub Pages.
 ## Live Site
-** View Portfolio *https://github.com/jimmyukaba1234-prog/jimmyukaba1234-prog.github.io/tree/main*
+** [View Portfolio]([https://dinmajj.github.io/](https://github.com/jimmyukaba1234-prog/jimmyukaba1234-prog.github.io/tree/main)) **
 ## Technologies Used
 - GitHub Pages for hosting- Jekyll for static site generation
 - GitHub-flavored Markdown for content
