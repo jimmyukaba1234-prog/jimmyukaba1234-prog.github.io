@@ -46,7 +46,7 @@ This project encompasses Global Health data analytics.
 
 - 📧 [jimmyukaba1234@gmail.com](mailto:jimmyukaba1234@gmail.com)
 - 🔽 [Download CV](/images/Ukaba_Jimmy_resume.pdf)
-- 🔗 [LinkedIn](www.linkedin.com/in/ukaba-jimmy-7b2b44267)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ukaba-jimmy-7b2b44267/)
 - 🐙 [GitHub](https://github.com/jimmyukaba1234-prog)
 
 ---
