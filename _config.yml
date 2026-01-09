@@ -1,1 +1,17 @@
+# Site settings
+title: "Ukaba Jimmy O - Data Analytics/Science"
+description: "Data Analytics/Science portfolio showcasing machine learning projects and analysis"
+author: "Ukaba Jimmy O"
+email: "jimmyukaba1234@gmail.com"
 
+Themetheme: jekyll-theme-minimal
+
+Social linksgithub_username: https://github.com/jimmyukaba1234-prog
+linkedin_username: www.linkedin.com/in/ukaba-jimmy-7b2b44267
+
+
+# Enable GitHub Pagesplugins:
+- jekyll-feed
+- jekyll-seo-tag
+
+# Analytics (optional)# google_analytics: G-XXXXXXXXXX
