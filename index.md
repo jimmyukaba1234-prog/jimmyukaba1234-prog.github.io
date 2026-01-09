@@ -1,54 +1,53 @@
 ---
 layout: default
-title: Data Portfolio
+title: Data Analyst/Scientist
 ---
 
-![Profile Photo](/images/IMG_9880 2.jpg){: width="200px" .profile-pic }
+![Profile Photo](images/photo_5784952414208199888_x.jpg){: width="200px" .profile-pic }
 
-# Hi, I'm Chiagoziem Cyriacus Ugoh 👋
+# Hi, I'm Ukaba Jimmy 👋
 
-I'm a data professional passionate about transforming data into actionable insights. With expertise in basic ETL pipelines (Extract, Transform, Load), machine learning, analytics, data visualization and web applications, I help organizations make data-driven decisions.
+I'm a data Data Analyst/Scientist passionate about transforming data into actionable insights. With expertise in basic ETL pipelines (Extract, Transform, Load), machine learning, analytics, data visualization and web applications, I help organizations make data-driven decisions.
 
 ## Featured Projects
 
-### [Big Data Processing (Sales Revenue Predictions)](https://www.kaggle.com/code/chiagoziemcugoh/big-data-processing-sales-revenue-predictions)
-Built a machine learning model to predict sales revenue with good accuracy, helping businesses in strategic planning.
+### [E-Commerce-End-to-End-Data-Analytics-Platform](https://github.com/jimmyukaba1234-prog/E-Commerce-End-to-End-Data-Analytics-Platform/blob/main/Ecommerce_intergration%20(2).ipynb)
+End-to-end e-commerce data analytics platform built on large-scale customer, order, product, and review data. Features database design, ETL pipeline, data cleaning, analytics, visualization, churn & LTV modeling, automated reporting, and an interactive web app to drive data-informed business decisions.
 
-*Tools:* Spark, SQL, Python, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, GBTClassifier
+*Tools:* SQL, Python, Plotly, RandomForestRegressor, RandomForestClassifier, Streamlit
 *Impact:* Helped businesses in strategic planning.
-[View Project →](https://www.kaggle.com/code/chiagoziemcugoh/big-data-processing-sales-revenue-predictions)
+[View Project →](https://github.com/jimmyukaba1234-prog/E-Commerce-End-to-End-Data-Analytics-Platform)
 
-### [Global Health Analytics](https://github.com/chidex-coder/Global-Health-Analytics/blob/main/HEALTH%20ETL%20PIPELINE1.ipynb)
-Built a web application that helps medical professionals for easy diagnosis of patients.
+### [Health-ETL-Pipeline-and-Analytics-with-Machine-learning](https://github.com/jimmyukaba1234-prog/Health-ETL-Pipeline-and-Analytics-with-Machine-learning)
+This project encompasses Global Health data analytics.
 
 *Tools:* SQL, Python, Scikit-learn, Pandas, ETL, Streamlit
-*Impact:* Helped medical professionals for easy diagnosis of patients.
+*Impact:* Helped medical professionals predict mortality rate.
 [View Project →](https://github.com/chidex-coder/Global-Health-Analytics/blob/main/HEALTH%20ETL%20PIPELINE1.ipynb)
 
 ## Featured Web Applications
 
-[Global Health Analytics →](https://global-health-analytics-hzpmji3zqfqwucxw3lt8st.streamlit.app)
+[Global Health Analytics →](https://health-etl-pipeline-and-analytics-with-machine-learning-groxho.streamlit.app/)
 
-[Advanced Emissions & Renewables Analytics →](https://co2-emissions-and-renewable-energy.onrender.com)
+[E-Commerce-End-to-End-Data-Analytics-Platform →](https://shorturl.at/Qyj5a)
 
-[Kidney Risk Assessment →](https://chiagoziem-s-kidney-disease-risk-assessment-app-22t2pmskrkewep.streamlit.app)
+[Automated-Sim-Registration-System →](https://automated-sim-registration-system-bpqgebaehrka6igsxlmfan.streamlit.app/)
 
 ## Technical Skills
 
 - *Languages:* Python, SQL
 - *Machine Learning:* Scikit-learn, XGBoost
-- *Visualization:* Matplotlib, Seaborn, Plotly, Dash, Tableau
-- *Cloud & Big Data:* Google Cloud, Spark, ETL
+- *Visualization:* Matplotlib, Seaborn, Plotly, Dash
+- *Cloud & Big Data:* ETL
 - *Tools:* Jupyter, Vs-Code
-- *Web Application:* Streamlit, Render
+- *Web Application:* Streamlit
 
 ## Contact
 
-- 📧 [chidexmailbox@gmail.com](mailto:chidexmailbox@gmail.com)
-- 🔽 [Download CV](/images/C.V.pdf)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chiagoziem-cyriacus-ugoh-078121182/)
-- 🐙 [GitHub](https://github.com/chidex-coder)
-- 📊 [Kaggle](https://www.kaggle.com/chiagoziemcugoh/code)
+- 📧 [jimmyukaba1234@gmail.com](mailto:jimmyukaba1234@gmail.com)
+- 🔽 [Download CV](/images/Ukaba_Jimmy_resume.pdf)
+- 🔗 [LinkedIn](www.linkedin.com/in/ukaba-jimmy-7b2b44267)
+- 🐙 [GitHub](https://github.com/jimmyukaba1234-prog)
 
 ---
 
