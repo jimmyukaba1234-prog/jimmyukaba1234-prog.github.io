@@ -1,32 +1,34 @@
 ---
 layout: default
-title: Data Analyst/Scientist
+title: Data Analyst (Python, SQL, Power BI)
 ---
 
 ![Profile Photo](images/photo_5784952414208199888_x.jpg){: width="200px" .profile-pic }
 
 # Hi, I'm Ukaba Jimmy 👋
 
-I'm a data Data Analyst/Scientist passionate about transforming data into actionable insights. With expertise in basic ETL pipelines (Extract, Transform, Load), machine learning, analytics, data visualization and web applications, I help organizations make data-driven decisions.
+I’m a Data Analyst with a strong foundation in ETL pipelines (Extract, Transform, Load), data analysis, visualization, and machine learning. I enjoy turning complex datasets into clear insights that drive smarter business decisions.
 
 ## Featured Projects
 
 ### [E-Commerce-End-to-End-Data-Analytics-Platform](https://github.com/jimmyukaba1234-prog/E-Commerce-End-to-End-Data-Analytics-Platform/blob/main/Ecommerce_intergration%20(2).ipynb)
-End-to-end e-commerce data analytics platform built on large-scale customer, order, product, and review data. Features database design, ETL pipeline, data cleaning, analytics, visualization, churn & LTV modeling, automated reporting, and an interactive web app to drive data-informed business decisions.
-
-*Tools:* SQL, Python, Plotly, RandomForestRegressor, RandomForestClassifier, Streamlit.
-
-*Impact:* Enabled end-to-end visibility into customer behavior, churn risk, and revenue drivers by transforming raw e-commerce data into actionable insights, predictive models, and automated stakeholder reports through a deployed analytics platform.
+Built a full end-to-end analytics platform to analyze customer behavior, churn, and revenue drivers across e-commerce data.
+#Key components:#
+ETL pipeline, relational database design, data cleaning, analytics, churn & LTV modeling, interactive dashboards, and automated reporting.
+Tools:
+SQL, Python, Plotly, RandomForest (Classifier & Regressor), Streamlit
+Impact:
+Delivered clear visibility into customer churn and revenue drivers, enabling data-informed business decisions through a deployed analytics web app.
 [View Project →](https://github.com/jimmyukaba1234-prog/E-Commerce-End-to-End-Data-Analytics-Platform)
 
 ### [Health-ETL-Pipeline-and-Analytics-with-Machine-learning](https://github.com/jimmyukaba1234-prog/Health-ETL-Pipeline-and-Analytics-with-Machine-learning)
-This project is an end-to-end Global Health Analytics Web Application that transforms messy real-world health data into actionable insights through automated data cleaning, analytics, machine learning prediction, and automated reporting.
+This project is an end-to-end Global Health Analytics Web Application that transforms messy real-world health data into actionable insights. 
 
 The system combines ETL pipelines, SQL analytics, machine learning, data visualization, and a deployed web interface to support data-driven decision-making for public health stakeholders.
 
 *Tools:* SQL, Python, Scikit-learn, Pandas, ETL, Streamlit
 
-*Impact:* Built a production-style health analytics platform that converts messy global health datasets into decision-ready insights through automated ETL, SQL analytics, machine learning predictions, and reporting. The system eliminates repetitive manual analysis, supports evidence-based public health planning, and delivers insights via an interactive web interface and automated PDF/email reports.
+*Impact:*Built a production-style health analytics platform that transforms messy global health data into decision-ready insights using automated ETL, SQL analytics, and machine learning. The system reduces manual analysis, supports evidence-based public health planning, and delivers insights through an interactive web app and automated PDF/email reports.
 [View Project →](https://github.com/chidex-coder/Global-Health-Analytics/blob/main/HEALTH%20ETL%20PIPELINE1.ipynb)
 
 ## Featured Web Applications
