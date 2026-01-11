@@ -17,6 +17,7 @@ Built a full end-to-end analytics platform to analyze customer behavior, churn, 
 ETL pipeline, relational database design, data cleaning, analytics, churn & LTV modeling, interactive dashboards, and automated reporting.
 Tools:
 SQL, Python, Plotly, RandomForest (Classifier & Regressor), Streamlit
+
 Impact:
 Delivered clear visibility into customer churn and revenue drivers, enabling data-informed business decisions through a deployed analytics web app.
 [View Project →](https://github.com/jimmyukaba1234-prog/E-Commerce-End-to-End-Data-Analytics-Platform)
