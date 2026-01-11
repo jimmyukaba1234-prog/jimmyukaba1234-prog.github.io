@@ -13,7 +13,8 @@ I’m a Data Analyst with a strong foundation in ETL pipelines (Extract, Transfo
 
 ### [E-Commerce-End-to-End-Data-Analytics-Platform](https://github.com/jimmyukaba1234-prog/E-Commerce-End-to-End-Data-Analytics-Platform/blob/main/Ecommerce_intergration%20(2).ipynb)
 Built a full end-to-end analytics platform to analyze customer behavior, churn, and revenue drivers across e-commerce data.
-#Key components:#
+
+##Key components:##
 ETL pipeline, relational database design, data cleaning, analytics, churn & LTV modeling, interactive dashboards, and automated reporting.
 Tools:
 SQL, Python, Plotly, RandomForest (Classifier & Regressor), Streamlit
