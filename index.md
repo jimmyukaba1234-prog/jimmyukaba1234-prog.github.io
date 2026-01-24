@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Analyst (Python, SQL, Power BI)
+title: Data Analyst (Automation & ETL Focused)
 ---
 
 ![Profile Photo](images/photo_5784952414208199888_x.jpg){: width="200px" .profile-pic }
