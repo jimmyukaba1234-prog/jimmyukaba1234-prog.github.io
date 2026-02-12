@@ -53,7 +53,7 @@ The system combines ETL pipelines, SQL analytics, machine learning, data visuali
 ## Contact
 
 - 📧 [jimmyukaba1234@gmail.com](mailto:jimmyukaba1234@gmail.com)
-- 🔽 [Download CV](/images/Ukaba_Jimmy_resume.pdf)
+- 🔽 [Download CV](/images/Ukaba_Jimmy_resume....pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ukaba-jimmy-7b2b44267/)
 - 🐙 [GitHub](https://github.com/jimmyukaba1234-prog)
 
